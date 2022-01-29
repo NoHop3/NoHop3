@@ -22,7 +22,7 @@ or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
 <h2>⚡ Fun Facts:</h2>
 😄 Pronouns: He/Him  
 <br/>
-📫 E-mail me at : u_sux@abv.bg 
+📫 E-mail me at : <a href="mailto:u_sux@abv.bg"><b>u_sux@abv.bg </b></a>
 <br/>
 👯 I am looking to collaborate on any web development projects.                          
 <br/>
