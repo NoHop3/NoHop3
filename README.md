@@ -42,7 +42,7 @@ or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
 <br/>
 🥳 I am almost always down to party and take impulsive decisions 📈
 
-<h2>✔️ My coding preferences</h2>
+<h2>✔️ My area of expertise 🤣</h2>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHop3&layout=compact&theme=gruvbox_light" alt="Stefan's Github Streak" width="420"/> 
