@@ -19,7 +19,7 @@ or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
     <img src="https://github-readme-stats.vercel.app/api?username=NoHop3&count_private=true&show_icons=true&theme=gruvbox_light&hide=stars,issues" alt="Stefan's Stats" width="420"/> 
 </p>
 
-<h1>⚡ Fun Facts:</h1>
+<h1>⚡ Fun Facts</h1>
 	
 <h3>😄 Pronouns: He/Him </h3>
 
@@ -34,7 +34,7 @@ or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NoHop3&theme=blood&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Stefan's Github Streak" width="420"/> 
 </p>
 
-<h1 >🌴 My hobbies:</h1>
+<h1 >🌴 My hobbies</h1>
 	
 <h3>⚜️ I adore photography and creativity</h3>
 
