@@ -51,7 +51,6 @@ or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
 </p>
   <h1>Let's Connect :coffee: </h1>
 <div>
-	<a href="https://github.com/NoHop3"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/stefang23/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/stefan_g23/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://www.facebook.com/stefan.georgievxD/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
