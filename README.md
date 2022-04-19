@@ -5,8 +5,8 @@
 <h3>
 You have finally discovered my Github profile. <br/>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/NoHop3/NoHop3/issues/new"><b>here</b></a><br>
-or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
+Ask me anything <a href="https://github.com/NoHop3/NoHop3/issues/new" target="_blank"><b>here</b></a><br>
+or <a href="mailto:u_sux@abv.bg" target="_blank"><b>email</b></a> me
 </h3>
 	<h3><i>Happy Coding! 😊</i></h3> 
 </div>
@@ -23,7 +23,7 @@ or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
 	
 <h3>😄 Pronouns: He/Him </h3>
 
-<h3>📫 E-mail me at : <a href="mailto:u_sux@abv.bg"><b>u_sux@abv.bg </b></a></h3>
+<h3>📫 E-mail me at : <a href="mailto:u_sux@abv.bg" target="_blank"><b>u_sux@abv.bg </b></a></h3>
 
 <h3>👯 I am looking to collaborate on any web development projects. 🤩 </h3>                   
 
@@ -51,9 +51,9 @@ or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
 </p>
   <h1>Let's Connect :coffee: </h1>
 <div>
-	<a href="https://www.linkedin.com/in/stefang23/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/stefan_g23/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.facebook.com/stefan.georgievxD/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
+	<a href="https://www.linkedin.com/in/stefang23/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/stefan_g23/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.facebook.com/stefan.georgievxD/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
 </div>
 <!--##### Hello there fellow developer👋
 ##### I assume you are weary after your intense coding, come sit by and relax while I tell you more about myself 🤗
