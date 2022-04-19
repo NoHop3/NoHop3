@@ -44,7 +44,7 @@ or <a href="mailto:u_sux@abv.bg" target="_blank"><b>email</b></a> me
 
 <h3>🥳 I am almost always down to party and take impulsive decisions 📈</h3>
 
-<h1>✔️ My area of expertise 🤣</h1>
+<h1>✔️ My area of expertise</h1>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHop3&layout=compact&theme=gruvbox_light" alt="Stefan's Github Streak" width="420"/> 
@@ -55,30 +55,3 @@ or <a href="mailto:u_sux@abv.bg" target="_blank"><b>email</b></a> me
 	<a href="https://www.instagram.com/stefan_g23/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://www.facebook.com/stefan.georgievxD/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
 </div>
-<!--##### Hello there fellow developer👋
-##### I assume you are weary after your intense coding, come sit by and relax while I tell you more about myself 🤗
-
-#### My name is Stefan Georgiev and I am a Front End Dev😎
-<div style="display: flex, align-items:center, justify-content:center">
-<a href="https://github.com/nohop3/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHop3&layout=compact&theme=gruvbox_light">
-</a>
-</div>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoHop3&count_private=true&show_icons=true&theme=gruvbox_light&hide=stars,issues)](https://github.com/nohop3/github-readme-stats)
-
-[![GitHub Streak]()](https://git.io/streak-stats)
-
-**NoHop3/NoHop3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
