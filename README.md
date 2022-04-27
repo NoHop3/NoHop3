@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <h3>
-You have finally discovered my Github profile. <br/>
+You have finally discovered my Github profile. 🌠 <br/>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/NoHop3/NoHop3/issues/new"><b>here</b></a><br>
 or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
