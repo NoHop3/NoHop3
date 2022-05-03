@@ -27,7 +27,7 @@ or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
 
 <h3>👯 I am looking to collaborate on any web development projects. 🤩 </h3>                   
 
-<h3>🌱 I am currently learning React ⚛️ and improving my JavaScript skills 💪.</h3>
+<h3>🌱 I am currently learning React ⚛️ and improving my JavaScript skills. 💪</h3>
 <h1> 🔥 Github Streak </h1>
 
 <p>
