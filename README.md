@@ -9,7 +9,7 @@ Ask me anything <a href="https://github.com/NoHop3/NoHop3/issues/new"><b>here</b
 or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
 </h3>
 	<h3><i>Happy Coding! 😊</i></h3> 
-</div>
+</div> 
 <div align="center"> 
 
 
