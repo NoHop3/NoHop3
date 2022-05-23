@@ -19,7 +19,7 @@ or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
     <img src="https://github-readme-stats.vercel.app/api?username=NoHop3&count_private=true&show_icons=true&theme=gruvbox_light&hide=stars,issues" alt="Stefan's Stats" width="420"/> 
 </p>
 
-<h1>⚡ Fun  Facts</h1>
+<h1>⚡ Fun Facts</h1>
 	
 <h3>😄 Pronouns: He/Him </h3>
 
