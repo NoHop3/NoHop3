@@ -8,7 +8,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything <a href="https://github.com/NoHop3/NoHop3/issues/new"><b>here</b></a><br>
 or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
 </h3>
-	<h3><i>Happ y Coding! 😊</i></h3> 
+	<h3><i>Happy Coding! 😊</i></h3> 
 </div> 
 <div align="center"> 
 
