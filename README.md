@@ -23,11 +23,11 @@ or <a href="mailto:steffan.g23@gmail.com"><b>email</b></a> me
 	
 <h3>😄 Pronouns: He/Him </h3>
 
-<h3>📫 E-mail me at : <a href="mailto:u_sux@abv.bg"><b>u_sux@abv.bg </b></a></h3>
+<h3>📫 E-mail me at : <a href="mailto:steffan.g23@gmail.com"><b>steffan.g23@gmail.com</b></a></h3>
 
-<h3>👯 I am looking to collaborate on any web development projects. 🤩 </h3>                   
+<h3>👯 I am looking to collaborate on any web development projects, especially React TS Projects. 🤩 </h3>                   
 
-<h3>🌱 I am currently  learning React ⚛️ and improving my JavaScript skills. 💪</h3>
+<h3>🌱 I am currently coding in React ⚛️ and creating a Fullstack car webpage inspired by the Forza Horizon series 💪</h3>
 <h1> 🔥 Github Streak </h1>
 
 <p>
