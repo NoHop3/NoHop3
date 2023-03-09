@@ -3,10 +3,10 @@
 </div>
 <div align="center">
 <h3>
-You have finally discovered my Github profile.🌠 🌟<br/>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+You have finally discovered my Github profile.🌠<br/>
+Please feel free to clone/fork projects, submit PRs and leave stars!🌟 If you think something could be better please raise an issue. <br>
 Ask me anything <a href="https://github.com/NoHop3/NoHop3/issues/new"><b>here</b></a><br>
-or <a href="mailto:u_sux@abv.bg"><b>email</b></a> me
+or <a href="mailto:steffan.g23@gmail.com"><b>email</b></a> me
 </h3>
 	<h3><i>Happy Coding! 😊</i></h3> 
 </div> 
