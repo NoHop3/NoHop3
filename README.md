@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <p>
-You have finally discovered my Github profile.🌠<br/>
+You have finally discovered my Github profile.🌠 <br/>
 Please feel free to clone/fork projects, submit PRs and leave stars!🌟 If you think something could be better please raise an issue. <br>
 Ask me anything <a href="https://github.com/NoHop3/NoHop3/issues/new"><b>here</b></a><br>
 or <a href="mailto:steffan.g23@gmail.com"><b>email</b></a> me
@@ -14,14 +14,13 @@ or <a href="mailto:steffan.g23@gmail.com"><b>email</b></a> me
 
 <h2></h2>
 <h2>⭐ GitHub Stats </h2>
-
 <p> 
     <img src="https://github-readme-stats.vercel.app/api?username=NoHop3&count_private=true&show_icons=true&theme=gruvbox_light&hide=stars,issues" alt="Stefan's Stats" width="420"/> 
 </p>
 
 <h2></h2>
 <h2>⚡ Fun Facts</h2>
-	
+<p><img src="https://komarev.com/ghpvc/?username=NoHop3&color=orange&style=for-the-badge&base=4212" target="_blank"></p>
 <p>😄 Pronouns: He/Him </p>
 
 <p>📫 E-mail me at : <a href="mailto:steffan.g23@gmail.com"><b>steffan.g23@gmail.com</b></a></p>
